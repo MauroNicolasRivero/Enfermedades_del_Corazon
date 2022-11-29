@@ -1,2 +1,2 @@
-# Enfermedades_del_Coraz-n
+# Enfermedades_del_Corazon
 Modelo de Predicción como practica
